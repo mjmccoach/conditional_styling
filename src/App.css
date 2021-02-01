@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.admin-user-row {
+  text-align: center;
+  align-items: center;
+}
+
+.review-evidence{
+  background-color: hotpink;
+}
